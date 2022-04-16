@@ -38,5 +38,9 @@ and in the preview page it will take full wideth of the page*
 
 *In my code i put the resources that i used , like i used ready made code , i used ready made code and i modified it , and i wrote my own code.*
 
+**Q3) How long did it take you to complete this assignment? And, before you started, how long did you think it would take you to complete this assignment?**
+
+*Answer) for me i spent all the lap time to try to design the wirefram and to understand html codes, after that i thought the project will take minimum 2 Days , and i fineshed in one and half day*
+
 ***Thanks and Regards*** 💻📮
 
