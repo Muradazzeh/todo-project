@@ -47,7 +47,8 @@ body {
     table {
     font-family: arial, sans-serif;
     border-collapse: collapse;
-    width: 100%;
+    width: 60%;
+   
     }
     
     td, th {
@@ -55,6 +56,7 @@ body {
     text-align: left;
     padding: 8px;
     }
+    .maintabl{margin-left: auto;margin-right: auto;}
     
     tr:nth-child(even) {
     background-color: #dddddd;
@@ -63,4 +65,4 @@ body {
     footer{padding: 20px;background-color: lavender;}
     input.size{width: 50px;height: 50px;}
     main h3{font-weight: 600;text-align: center;color: rgb(32, 34, 123);}
-    
+    .location{padding: 40px;}
